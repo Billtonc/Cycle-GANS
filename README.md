@@ -11,7 +11,7 @@ Image Style Transfer Tool using CycleGANs
 
 ## Authors
 
-- [Roxanne Li](https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fwww.linkedin.com%2Fin%2Froxanne-li%2F%3Futm_medium%3DExinfluencer%26utm_source%3DExinfluencer%26utm_content%3D000026UJ%26utm_term%3D10006555%26utm_id%3DNA-SkillsNetwork-Channel-SkillsNetworkGuidedProjectsIBMGPXX0KSEEN39299759-2022-01-01)
+- [Roxanne Li](https://www.linkedin.com/in/roxanne-li/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkGuidedProjectsIBMGPXX0KSEEN39299759-2022-01-01&challengeSource=AgH6VwDao_s0PgAAAY4eV2pAKkWVhUMY1wyKmg_6eOemlkGtWIytr6bm_3FdsJQ&challegeType=AgG4v6iNzp8nUQAAAY4eV2pCQwfrqPlkqiRDYAIlmjYhG7PymfbmwuY&memberId=AgHTisv9uX7CkwAAAY4eV2pFZVYiwE7SCUo6wF99CVWGMng&recognizeDevice=AgE1PU-AgdMrQAAAAY4eV2pIxXmk__o5u2Xu1EAmTbrlXyD-R6ZE&challengeId=AQFEfDk2ps34xAAAAY4eV22Qo25uRtCWgjFBzik75sfBan2NDxqcBaKO5XE8pbdaMZeDSdnbFEqygNNhzrs20i8boX_qsh7B7g&submissionId=faaaf599-78ce-ba17-7082-9225664fa04b&challengeSource=AgHYqFzxMASaswAAAY4eV9sC68Ul5FfCyflgC_NsQMR3fE3EvUiB2Q-FiuT5kis&challegeType=AgEUCGmz_XyqzgAAAY4eV9sGHrrfizQo2zGe4lT2RTJCv-XaYNy4FRM&memberId=AgFpvut74yjpwgAAAY4eV9sKlrl9Wamxgs499Mp5g_txjrU&recognizeDevice=AgHGmsH63Iq1uwAAAY4eV9sN-dElAiRK3X8XyUW2jmQ1Uia8xR4M)
 ## 🚀 About Me
 Nama : Billton Camry
 
